@@ -7,7 +7,3 @@
 Deployed at: Not yet deployed
 
 • Please do ⭐ the repository, if it helped you in anyway.
-
-• A glimpse of the web app:
-
-![GIF](readme_resources/predicting-genre-web-app.gif)
